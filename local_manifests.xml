@@ -5,7 +5,7 @@
     <project name="SM6225-Motorola/device_motorola_devon" path="device/motorola/devon" remote="github" revision="A15"/>
 
     <!-- vendor -->
-    <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="github" revision="lineage-22.1"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="github" revision="lineage-21"/>
     
     <!-- kernel -->
     <project name="SM6225-Motorola/DanceKernel" path="kernel/motorola/sm6225" remote="github" revision="main"/>
