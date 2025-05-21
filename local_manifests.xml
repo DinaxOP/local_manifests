@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github" fetch="https://github.com/" />
+    <remote name="SM6225-Motorola" fetch="https://github.com/SM6225-Motorola" />
+    <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
     <!-- device trees -->
-    <project name="SM6225-Motorola/device_motorola_devon" path="device/motorola/devon" remote="github" revision="A15"/>
+    <project name="device_motorola_devon" path="device/motorola/devon" remote="SM6225-Motorola" revision="A15"/>
 
     <!-- vendor -->
-    <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="github" revision="lineage-21"/>
+    <project name="TheMuppets/proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="TheMuppets" revision="lineage-21"/>
     
     <!-- kernel -->
-    <project name="SM6225-Motorola/DanceKernel" path="kernel/motorola/sm6225" remote="github" revision="main"/>
-    <project name="SM6225-Motorola/hardware_motorola.git" path="hardware/motorola" remote="github" revision="A15"/>
+    <project name="DanceKernel" path="kernel/motorola/sm6225" remote="SM6225-Motorola" revision="main"/>
+    <project name="hardware_motorola.git" path="hardware/motorola" remote="SM6225-Motorola" revision="A15"/>
 </manifest>
