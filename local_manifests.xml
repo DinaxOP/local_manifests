@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="SM6225-Motorola" fetch="https://github.com/SM6225-Motorola" />
+    <remote name="DinaxOP" fetch="https://github.com/DinaxOP" />
     <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
     <remote name="LineageOS" fetch="https://github.com/LineageOS" /
     
@@ -11,7 +11,7 @@
     <project name="proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="TheMuppets" revision="lineage-21"/>
     
     <!-- kernel -->
-    <project name="DanceKernel" path="kernel/motorola/sm6225" remote="SM6225-Motorola" revision="main"/>
+    <project name="android_kernel_motorola_sm6225" path="kernel/motorola/sm6225" remote="DinaxOP" revision="lineage-21"/>
 
     <!-- hardware -->
     <project name="android_hardware_motorola" path="hardware/motorola" remote=""LineageOS" revision="lineage-21"/>
