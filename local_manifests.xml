@@ -14,6 +14,6 @@
     <project name="android_kernel_motorola_sm6225" path="kernel/motorola/sm6225" remote="DinaxOP" revision="lineage-21"/>
 
     <!-- hardware -->
-    <project name="android_hardware_motorola" path="hardware/motorola" remote=""LineageOS" revision="lineage-21"/>
+    <project name="android_hardware_motorola" path="hardware/motorola" remote="LineageOS" revision="lineage-21"/>
 
 </manifest>
