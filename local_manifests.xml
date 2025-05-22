@@ -2,7 +2,7 @@
 <manifest>
     <remote name="DinaxOP" fetch="https://github.com/DinaxOP" />
     <remote name="TheMuppets" fetch="https://github.com/TheMuppets" />
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" /
+    <remote name="LineageOS" fetch="https://github.com/LineageOS" />
     
     <!-- device trees -->
     <project name="android_device_motorola_devon" path="device/motorola/devon" remote="LineageOS" revision="lineage-21"/>
