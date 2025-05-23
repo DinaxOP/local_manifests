@@ -6,9 +6,11 @@
     
     <!-- device trees -->
     <project name="android_device_motorola_devon" path="device/motorola/devon" remote="LineageOS" revision="lineage-21"/>
+    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="LineageOS" revision="lineage-21"/>
 
     <!-- vendor -->
     <project name="proprietary_vendor_motorola_devon" path="vendor/motorola/devon" remote="TheMuppets" revision="lineage-21"/>
+    <project name="proprietary_vendor_motorola_sm6225-common" path="vendor/motorola/sm6225-common" remote="TheMuppets" revision="lineage-21/>
     
     <!-- kernel -->
     <project name="android_kernel_motorola_sm6225" path="kernel/motorola/sm6225" remote="DinaxOP" revision="lineage-21"/>
