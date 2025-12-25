@@ -24,14 +24,14 @@
     <project name="android_hardware_motorola" path="hardware/motorola" remote="LineageOS" revision="lineage-23.0"/>
 
     <!-- motocam -->
-    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera4-bengal" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotoPhotoEditor" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera2AI" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera3AI-bengal" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCameraAI-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotoSignatureApp" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotorolaSettingsProvider" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
     
 
 
