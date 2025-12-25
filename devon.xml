@@ -9,7 +9,7 @@
     <remote name="Dinax" fetch="https://github.com/DinaxOP" />
 
     <!-- device trees -->
-    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="LineageOS" revision="lineage-23.0"/>
+    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Dinax" revision="lineage-23.0"/>
     <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="LineageOS" revision="lineage-23.0"/>
 
     <!-- vendor -->
