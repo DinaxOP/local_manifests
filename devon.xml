@@ -23,5 +23,16 @@
     <!-- hardware -->
     <project name="android_hardware_motorola" path="hardware/motorola" remote="LineageOS" revision="lineage-23.0"/>
 
+    <!-- motocam -->
+    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_devon" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
+    <project name="android_device_motorola_sm6225-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    
+
 
 </manifest>
