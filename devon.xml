@@ -24,14 +24,14 @@
     <project name="android_hardware_motorola" path="hardware/motorola" remote="LineageOS" revision="lineage-23.0"/>
 
     <!-- motocam -->
-    <project name="proprietary_vendor_motorola_MotCamera4-bengal" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotCamera-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotoPhotoEditor" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotCamera2AI" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotCamera3AI-bengal" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotCameraAI-common" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotoSignatureApp" path="device/motorola/devon" remote="Deivid21" revision="android-15"/>
-    <project name="proprietary_vendor_motorola_MotorolaSettingsProvider" path="device/motorola/sm6225-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera4-bengal" path="vendor/motorola/MotCamera4-bengal" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera-common" path="vendor/motorola/MotCamera-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotoPhotoEditor" path="vendor/motorola/MotoPhotoEditor" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera2AI" path="vendor/motorola/MotCamera2AI" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCamera3AI-bengal" path="vendor/motorola/MotCamera3AI-bengal" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotCameraAI-common" path="vendor/motorola/MotCameraAI-common" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotoSignatureApp" path="vendor/motorola/MotoSignatureApp" remote="Deivid21" revision="android-15"/>
+    <project name="proprietary_vendor_motorola_MotorolaSettingsProvider" path="vendor/motorola/MotorolaSettingsProvider" remote="Deivid21" revision="android-15"/>
     
 
 
