@@ -15,7 +15,7 @@
     <project name="proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="TheMuppets" revision="lineage-23.2"/>
     
     <!-- kernel -->
-    <project name="DinaxKernel" path="kernel/motorola/sm6225" remote="Dinax" revision="A16"/>
+    <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="LineageOS" revision="lineage-23.2"/>
 
     <!-- hardware -->
     <project name="android_hardware_motorola" path="hardware/motorola" remote="LineageOS" revision="lineage-23.0"/>
