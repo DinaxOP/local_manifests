@@ -16,6 +16,8 @@
     
     <!-- kernel -->
     <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="LineageOS" revision="lineage-23.2"/>
+    <project name="android_kernel_xiaomi_sm8635-modules" path="kernel/xiaomi/sm8635-modules" remote="LineageOS" revision="lineage-23.2"/>
+    <project name="android_kernel_xiaomi_sm8635-devicetrees" path="kernel/xiaomi/sm8635-devicetrees" remote="LineageOS" revision="lineage-23.2"/>
 
     <!-- hardware -->
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="LineageOS" revision="lineage-23.2"/>
