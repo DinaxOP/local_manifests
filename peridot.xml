@@ -15,7 +15,7 @@
     <project name="proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="TheMuppets" revision="lineage-23.2"/>
     
     <!-- kernel -->
-    <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="LineageOS" revision="lineage-23.2"/>
+    <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="Dinax" revision="lineage-23.2"/>
     <project name="android_kernel_xiaomi_sm8635-modules" path="kernel/xiaomi/sm8635-modules" remote="LineageOS" revision="lineage-23.2"/>
     <project name="android_kernel_xiaomi_sm8635-devicetrees" path="kernel/xiaomi/sm8635-devicetrees" remote="LineageOS" revision="lineage-23.2"/>
 
