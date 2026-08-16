@@ -8,7 +8,7 @@
     <remote name="Dinax" fetch="https://github.com/DinaxOP" />
 
     <!-- device trees -->
-    <project name="android_device_xiaomi_peridot" path="device/xiaomi/peridot" remote="LineageOS" revision="lineage-23.2"/>
+    <project name="android_device_xiaomi_peridot" path="device/xiaomi/peridot" remote="Dinax" revision="lineage-23.2"/>
 
     <!-- vendor -->
     <project name="proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="TheMuppets" revision="lineage-23.2"/>
