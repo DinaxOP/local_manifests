@@ -9,7 +9,7 @@
     <remote name="Poco-F6-resources" fetch="https://github.com/Poco-F6-resources" />
     <remote name="Chaitanyakm" fetch="https://github.com/Chaitanyakm" />
     <remote name="kenway214" fetch="https://github.com/kenway214" />
-    <remote name="crdroid" fetch="https://github.com/crdroidandroid" />
+    <remote name="crdroidd" fetch="https://github.com/crdroidandroid" />
     <remote name="crdroidgitlab" fetch="https://gitlab.com/crdroidandroid" />
 
     <!-- device trees -->
@@ -17,20 +17,20 @@
     <project name="android_device_xiaomi_miuicamera" path="device/xiaomi/peridot-miuicamera" remote="crdroidgitlab" revision="16.0-peridot"/>
 
     <!-- vendor -->
-    <project name="proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="crdroid" revision="16.0"/>
-    <project name="android_vendor_bcr" path="vendor/bcr" remote="crdroid" revision="16.0"/>
+    <project name="proprietary_vendor_xiaomi_peridot" path="vendor/xiaomi/peridot" remote="crdroidd" revision="16.0"/>
+    <project name="android_vendor_bcr" path="vendor/bcr" remote="crdroidd" revision="16.0"/>
     <project name="proprietary_vendor_xiaomi_miuicamera" path="vendor/xiaomi/peridot-miuicamera" remote="crdroidgitlab" revision="16.0-peridot"/>
     
     <!-- kernel -->
     <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="Dinax" revision="16.0"/>
-    <project name="android_kernel_xiaomi_sm8635-modules" path="kernel/xiaomi/sm8635-modules" remote="crdroid" revision="16.0"/>
-    <project name="android_kernel_xiaomi_sm8635-devicetrees" path="kernel/xiaomi/sm8635-devicetrees" remote="crdroid" revision="16.0"/>
+    <project name="android_kernel_xiaomi_sm8635-modules" path="kernel/xiaomi/sm8635-modules" remote="crdroidd" revision="16.0"/>
+    <project name="android_kernel_xiaomi_sm8635-devicetrees" path="kernel/xiaomi/sm8635-devicetrees" remote="crdroidd" revision="16.0"/>
 
     <!-- hardware -->
-    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="crdroid" revision="16.0"/>
+    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="crdroidd" revision="16.0"/>
 
     <!-- packages -->
-    <project name="android_packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" remote="crdroid" revision="16.0"/>
+    <project name="android_packages_apps_LunarisDolby" path="packages/apps/LunarisDolby" remote="crdroidd" revision="16.0"/>
     <project name="packages_apps_GameBar" path="packages/apps/GameBar" remote="kenway214" revision="lineage-23.2"/>
 
 </manifest>
