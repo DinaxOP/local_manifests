@@ -9,6 +9,7 @@
     <remote name="Poco-F6-resources" fetch="https://github.com/Poco-F6-resources" />
     <remote name="Chaitanyakm" fetch="https://github.com/Chaitanyakm" />
     <remote name="kenway214" fetch="https://github.com/kenway214" />
+    <remote name="GlixoOp" fetch="https://github.com/GlixoOp" />
 
     <!-- device trees -->
     <project name="android_device_xiaomi_peridot" path="device/xiaomi/peridot" remote="Dinax" revision="lineage-23.2"/>
@@ -18,7 +19,7 @@
     <project name="vendor_bcr" path="vendor/bcr" remote="Chaitanyakm" revision="main"/>
     
     <!-- kernel -->
-    <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="Dinax" revision="lineage-23.2"/>
+    <project name="android_kernel_xiaomi_sm8635" path="kernel/xiaomi/sm8635" remote="GlixoOp" revision="lineage-23.2"/>
     <project name="android_kernel_xiaomi_sm8635-modules" path="kernel/xiaomi/sm8635-modules" remote="LineageOS" revision="lineage-23.2"/>
     <project name="android_kernel_xiaomi_sm8635-devicetrees" path="kernel/xiaomi/sm8635-devicetrees" remote="LineageOS" revision="lineage-23.2"/>
 
