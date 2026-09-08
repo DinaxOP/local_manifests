@@ -13,7 +13,7 @@
     <remote name="crdroidgitlab" fetch="https://gitlab.com/crdroidandroid" />
 
     <!-- device trees -->
-    <project name="android_device_xiaomi_peridot" path="device/xiaomi/peridot" remote="Dinax" revision="16.0"/>
+    <project name="device_xiaomi_peridot" path="device/xiaomi/peridot" remote="Dinax" revision="16.0"/>
     <project name="android_device_xiaomi_miuicamera" path="device/xiaomi/peridot-miuicamera" remote="crdroidgitlab" revision="16.0-peridot"/>
 
     <!-- vendor -->
